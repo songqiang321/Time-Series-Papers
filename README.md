@@ -23,6 +23,7 @@ This is a repository for collecting papers and code in time series domain.
 
 ## RNN and CNN
 
+---
 
 ## Transformer
 
@@ -30,4 +31,3 @@ This is a repository for collecting papers and code in time series domain.
 
 ## Repositories
 
----
