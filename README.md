@@ -33,7 +33,7 @@ This is a repository for collecting papers and code in time series domain.
 
 - **Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting**, _Zhou et al._, AAAI 2021 Best paper. \[[paper](https://arxiv.org/abs/2012.07436)\]\[[code](https://github.com/zhouhaoyi/Informer2020)\]
 - **FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting**, _Zhou et al._, ICML 2022. \[[paper](https://arxiv.org/abs/2201.12740)\]\[[code](https://github.com/MAZiqing/FEDformer)\]\[[DAMO-DI-ML](https://github.com/DAMO-DI-ML)\]
-- PatchTST: **A Time Series is Worth 64 Words: Long-term Forecasting with Transformers**, _Nie etal._, ICLR 2023. \[[paper](https://arxiv.org/abs/2211.14730)\]\[[code](https://github.com/yuqinie98/PatchTST)\]
+- PatchTST: **A Time Series is Worth 64 Words: Long-term Forecasting with Transformers**, _Nie et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2211.14730)\]\[[code](https://github.com/yuqinie98/PatchTST)\]
 - **Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting**, _Zhang and Yan_, ICLR 2023.  \[[paper](https://openreview.net/forum?id=vSVLM2j9eie)\]\[[code](https://github.com/Thinklab-SJTU/Crossformer)\]
 
 ---
