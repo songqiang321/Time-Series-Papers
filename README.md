@@ -6,6 +6,7 @@ This is a repository for collecting papers and code in time series domain.
 - [Linear](#linear)
 - [RNN and CNN](#rnn-and-cnn)
 - [Transformer](#transformer)
+- [GNN](#gnn)
 - [Framework](#framework)
 - [Repositories](#repositories)
 
@@ -13,6 +14,7 @@ This is a repository for collecting papers and code in time series domain.
   ├─ Linear/  
   ├─ RNN and CNN/           
   ├─ Transformer/
+  ├─ GNN/
   ├─ Framework/                
   └─ Repositories/         
 ```
@@ -42,12 +44,29 @@ This is a repository for collecting papers and code in time series domain.
 
 ---
 
+## GNN
+
+- **A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**, _Jin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.03759)\]\[[code](https://github.com/KimMeen/Awesome-GNN4TS)\]
+
+---
+
 ## Framework
 
+- **SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling**, _Dong et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2302.00861)\]\[[code](https://github.com/thuml/SimMTM)\]
 - **TSPP: A Unified Benchmarking Tool for Time-series Forecasting**, _Bączek et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17100)\]\[[code](https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform)\]
 - **One Fits All:Power General Time Series Analysis by Pretrained LM**, _Zhou et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2302.11939)\]\[[code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)\]\[[AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys)\]
+- **Large Language Models Are Zero-Shot Time Series Forecasters**, _Gruver et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2310.07820)\]\[[code](https://github.com/ngruver/llmtime)\]
+- **GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**, _Li et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2311.04245)\]\[[code](https://github.com/HKUDS/GPT-ST)\]
+- **Lag-Llama: Towards Foundation Models for Time Series Forecasting**, _Rasul et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.08278)\]\[[code](https://github.com/kashif/pytorch-transformer-ts)\]
+- **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]
+- **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook**, _Jin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10196)\]\[[code](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]
+
+
+---
 
 ## Repositories
 
 - \[[Time-Series-Library](https://github.com/thuml/Time-Series-Library)\]
+- \[[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)\]
+- \[[awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)\]
 
