@@ -63,6 +63,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Large Language Models Are Zero-Shot Time Series Forecasters**, _Gruver et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2310.07820)\]\[[code](https://github.com/ngruver/llmtime)\]
 - **GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**, _Li et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2311.04245)\]\[[code](https://github.com/HKUDS/GPT-ST)\]
 - **Lag-Llama: Towards Foundation Models for Time Series Forecasting**, _Rasul et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.08278)\]\[[code](https://github.com/kashif/pytorch-transformer-ts)\]
+- TimesFM: **A decoder-only foundation model for time-series forecasting**, _Das et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10688)\]
 - **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]
 - **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook**, _Jin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10196)\]\[[code](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]
