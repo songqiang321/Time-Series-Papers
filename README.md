@@ -76,6 +76,5 @@ This is a repository for collecting papers and code in time series domain.
 ## Repositories
 
 - \[[Time-Series-Library](https://github.com/thuml/Time-Series-Library)\]
-- \[[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)\]
-- \[[awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)\]
+- \[[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)\]\[[awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)\]\[[Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]
 
