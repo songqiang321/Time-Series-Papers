@@ -66,6 +66,7 @@ This is a repository for collecting papers and code in time series domain.
 - TimesFM: **A decoder-only foundation model for time-series forecasting**, _Das et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10688)\]
 - **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]\[[nixtla](https://github.com/Nixtla/nixtla)\]
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]
+- **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]
 - **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook**, _Jin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10196)\]\[[code](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]
 - **MOMENT: A Family of Open Time-series Foundation Models**, _Goswami et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.03885)\]\[[code](https://anonymous.4open.science/r/BETT-773F/)\]
 - **Large Language Models for Time Series: A Survey**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.01801)\]\[[code](https://github.com/xiyuanzh/awesome-llm-time-series)\]
