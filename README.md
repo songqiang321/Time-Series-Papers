@@ -53,6 +53,7 @@ This is a repository for collecting papers and code in time series domain.
 ## GNN
 
 - **A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**, _Jin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.03759)\]\[[code](https://github.com/KimMeen/Awesome-GNN4TS)\]
+- **MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting**, _Cai et al._, AAAI 2024. \[[paper](https://arxiv.org/abs/2401.00423)\]\[[code](https://github.com/YoZhibo/MSGNet)\]
 
 ---
 
