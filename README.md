@@ -75,6 +75,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**, _Su et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.10350)\]
 - **Unified Training of Universal Time Series Forecasting Transformers**, _Woo et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02592)\]
 - **Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning**, _Bian et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.04852)\]
+- **UniTS: Building a Unified Time Series Model**, _Gao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.00131)\]\[[code](https://github.com/mims-harvard/UniTS)\]
 
 
 ---
