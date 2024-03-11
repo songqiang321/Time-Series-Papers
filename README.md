@@ -60,7 +60,8 @@ This is a repository for collecting papers and code in time series domain.
 ## Framework
 
 - **SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling**, _Dong et al._, NeurIPS 2023 Spotlight. \[[paper](https://arxiv.org/abs/2302.00861)\]\[[code](https://github.com/thuml/SimMTM)\]
-- **Timer: Transformers for Time Series Analysis at Scale**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]
+- **Timer: Transformers for Time Series Analysis at Scale**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Timer)\]
+- **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
 - **TSPP: A Unified Benchmarking Tool for Time-series Forecasting**, _Bączek et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17100)\]\[[code](https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform)\]
 - **One Fits All:Power General Time Series Analysis by Pretrained LM**, _Zhou et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2302.11939)\]\[[code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)\]\[[AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys)\]
 - **Large Language Models Are Zero-Shot Time Series Forecasters**, _Gruver et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2310.07820)\]\[[code](https://github.com/ngruver/llmtime)\]
