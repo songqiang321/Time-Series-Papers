@@ -33,6 +33,8 @@ This is a repository for collecting papers and code in time series domain.
 
 ## RNN and CNN
 
+- **TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**, _Wu et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2210.02186)\]\[[code](https://github.com/thuml/TimesNet)\]\[[slides](https://wuhaixu2016.github.io/pdf/ICLR2023_TimesNet.pdf)\]
+
 ---
 
 ## Transformer
@@ -41,7 +43,6 @@ This is a repository for collecting papers and code in time series domain.
 - **Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting**, _Wu et al._, NeurIPS 2021. \[[paper](https://arxiv.org/abs/2106.13008)\]\[[code](https://github.com/thuml/Autoformer)\]\[[slides](https://wuhaixu2016.github.io/pdf/NeurIPS2021_Autoformer.pdf)\]
 - **Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy**, _Xu et al._, ICLR 2022. \[[paper](https://arxiv.org/abs/2110.02642)\]\[[code](https://github.com/thuml/Anomaly-Transformer)\]\[[slides](https://wuhaixu2016.github.io/pdf/ICLR2022_Anomaly.pdf)\]
 - **Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting**, _Liu et al._, NeurIPS 2022. \[[paper](https://arxiv.org/abs/2205.14415)\]\[[code](https://github.com/thuml/Nonstationary_Transformers)\]
-- **TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**, _Wu et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2210.02186)\]\[[code](https://github.com/thuml/TimesNet)\]\[[slides](https://wuhaixu2016.github.io/pdf/ICLR2023_TimesNet.pdf)\
 - **iTransformer: Inverted Transformers Are Effective for Time Series Forecasting**, _Liu et al._, ICLR 2024 Spotlight. \[[paper](https://arxiv.org/abs/2310.06625)\]\[[code](https://github.com/thuml/iTransformer)\]
 - **FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting**, _Zhou et al._, ICML 2022. \[[paper](https://arxiv.org/abs/2201.12740)\]\[[code](https://github.com/MAZiqing/FEDformer)\]\[[DAMO-DI-ML](https://github.com/DAMO-DI-ML)\]
 - PatchTST: **A Time Series is Worth 64 Words: Long-term Forecasting with Transformers**, _Nie et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2211.14730)\]\[[code](https://github.com/yuqinie98/PatchTST)\]
