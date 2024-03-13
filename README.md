@@ -89,4 +89,5 @@ This is a repository for collecting papers and code in time series domain.
 - \[[Time-Series-Library](https://github.com/thuml/Time-Series-Library)\]
 - \[[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)\]\[[awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)\]\[[Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]
 - \[[statsforecast](https://github.com/Nixtla/statsforecast)\]
+- \[[multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)\]\[[ETDataset](https://github.com/zhouhaoyi/ETDataset)\]
 
