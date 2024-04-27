@@ -91,4 +91,5 @@ This is a repository for collecting papers and code in time series domain.
 - \[[statsforecast](https://github.com/Nixtla/statsforecast)\]
 - \[[multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)\]\[[ETDataset](https://github.com/zhouhaoyi/ETDataset)\]
 - \[[AIAlpha](https://github.com/VivekPa/AIAlpha)\]
+- \[[prophet](https://github.com/facebook/prophet)\]\[[Kats](https://github.com/facebookresearch/Kats)\]\[[tsfresh](https://github.com/blue-yonder/tsfresh)\]\[[sktime](https://github.com/sktime/sktime)\]\[[darts](https://github.com/unit8co/darts)\]\[[tslearn](https://github.com/tslearn-team/tslearn)\]\[[pyflux](https://github.com/RJT1990/pyflux)\]
 
