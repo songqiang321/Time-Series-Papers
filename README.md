@@ -27,7 +27,7 @@ This is a repository for collecting papers and code in time series domain.
 - **TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting**, _Ekambaram et al._, KDD 2023. \[[paper](https://arxiv.org/abs/2306.09364)\]\[[model](https://huggingface.co/docs/transformers/main/en/model_doc/patchtsmixer)\]\[[example](https://github.com/ibm/tsfm#notebooks-links)\]
 - **Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series**, _Ekambaram et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03955)\]
 - **FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16450)\]\[[code](https://github.com/onceCWJ/FCDNet)\]
-- **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://openreview.net/forum?id=7oLshfEIC2)\]\[[code]\]
+- **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://openreview.net/forum?id=7oLshfEIC2)\]\[[code](https://github.com/kwuking/TimeMixer)\]
 
 ---
 
@@ -62,7 +62,7 @@ This is a repository for collecting papers and code in time series domain.
 ## Framework
 
 - **SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling**, _Dong et al._, NeurIPS 2023 Spotlight. \[[paper](https://arxiv.org/abs/2302.00861)\]\[[code](https://github.com/thuml/SimMTM)\]
-- **Timer: Transformers for Time Series Analysis at Scale**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Timer)\]
+- **Timer: Transformers for Time Series Analysis at Scale**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[website](https://thuml.github.io/timer)\]
 - **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
 - **TSPP: A Unified Benchmarking Tool for Time-series Forecasting**, _Bączek et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17100)\]\[[code](https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform)\]
 - **One Fits All:Power General Time Series Analysis by Pretrained LM**, _Zhou et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2302.11939)\]\[[code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)\]\[[AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys)\]
