@@ -81,7 +81,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]\[[code](https://github.com/KimMeen/Time-LLM)\]
 - **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]
 - **MOMENT: A Family of Open Time-series Foundation Models**, _Goswami et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.03885)\]\[[code](https://github.com/moment-timeseries-foundation-model/moment)\]
-- **Unified Training of Universal Time Series Forecasting Transformers**, _Woo et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02592)\]
+- **Unified Training of Universal Time Series Forecasting Transformers**, _Woo et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02592)\]\[[code](https://github.com/SalesforceAIResearch/uni2ts)\]
 - **Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning**, _Bian et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.04852)\]
 - **UniTS: Building a Unified Time Series Model**, _Gao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.00131)\]\[[code](https://github.com/mims-harvard/UniTS)\]
 - **Chronos: Learning the Language of Time Series**, _Ansari et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.07815)\]\[[code](https://github.com/amazon-science/chronos-forecasting)\]
