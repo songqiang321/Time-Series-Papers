@@ -43,6 +43,7 @@ This is a repository for collecting papers and code in time series domain.
 
 ## Transformer
 
+- **Transformers in Time Series: A Survey**, _Wen et al._, IJCAI 2023. \[[paper](https://arxiv.org/abs/2202.07125)\]\[[code](https://github.com/qingsongedu/time-series-transformers-review)\]
 - **Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting**, _Zhou et al._, AAAI 2021 Best paper. \[[paper](https://arxiv.org/abs/2012.07436)\]\[[code](https://github.com/zhouhaoyi/Informer2020)\]
 - **Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting**, _Wu et al._, NeurIPS 2021. \[[paper](https://arxiv.org/abs/2106.13008)\]\[[code](https://github.com/thuml/Autoformer)\]\[[slides](https://wuhaixu2016.github.io/pdf/NeurIPS2021_Autoformer.pdf)\]
 - **Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy**, _Xu et al._, ICLR 2022. \[[paper](https://arxiv.org/abs/2110.02642)\]\[[code](https://github.com/thuml/Anomaly-Transformer)\]\[[slides](https://wuhaixu2016.github.io/pdf/ICLR2022_Anomaly.pdf)\]
