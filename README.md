@@ -31,7 +31,7 @@ This is a repository for collecting papers and code in time series domain.
 - **TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting**, _Ekambaram et al._, KDD 2023. \[[paper](https://arxiv.org/abs/2306.09364)\]\[[model](https://huggingface.co/docs/transformers/main/en/model_doc/patchtsmixer)\]\[[example](https://github.com/ibm/tsfm#notebooks-links)\]
 - **Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series**, _Ekambaram et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03955)\]
 - **FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16450)\]\[[code](https://github.com/onceCWJ/FCDNet)\]
-- **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://openreview.net/forum?id=7oLshfEIC2)\]\[[code](https://github.com/kwuking/TimeMixer)\]
+- **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2405.14616)\]\[[code](https://github.com/kwuking/TimeMixer)\]
 
 ---
 
