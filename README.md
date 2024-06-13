@@ -86,6 +86,7 @@ This is a repository for collecting papers and code in time series domain.
 - **UniTS: Building a Unified Time Series Model**, _Gao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.00131)\]\[[code](https://github.com/mims-harvard/UniTS)\]
 - **Chronos: Learning the Language of Time Series**, _Ansari et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.07815)\]\[[code](https://github.com/amazon-science/chronos-forecasting)\]
 - **Large language models can be zero-shot anomaly detectors for time series**, _Alnegheimish et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.14755)\]
+- **Foundation Models for Time Series Analysis: A Tutorial and Survey**, _Liang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.14735)\]\[[granite-tsfm](https://github.com/ibm-granite/granite-tsfm)\]
 
 ---
 ## Diffusion Model
@@ -104,7 +105,7 @@ This is a repository for collecting papers and code in time series domain.
 ## Repositories
 
 - \[[Time-Series-Library](https://github.com/thuml/Time-Series-Library)\]
-- \[[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)\]\[[awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)\]\[[Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]\[[TSFpaper](https://github.com/ddz16/TSFpaper)\]
+- \[[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)\]\[[awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)\]\[[Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]\[[TSFpaper](https://github.com/ddz16/TSFpaper)\]\[[deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series)\]
 - \[[statsforecast](https://github.com/Nixtla/statsforecast)\]\[[neuralforecast](https://github.com/Nixtla/neuralforecast)\]\[[gluonts](https://github.com/awslabs/gluonts)\]\[[Merlion](https://github.com/salesforce/Merlion)\]\[[pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting)\]\[[tsai](https://github.com/timeseriesAI/tsai)\]
 - \[[AIAlpha](https://github.com/VivekPa/AIAlpha)\]
 - \[[prophet](https://github.com/facebook/prophet)\]\[[Kats](https://github.com/facebookresearch/Kats)\]\[[tsfresh](https://github.com/blue-yonder/tsfresh)\]\[[sktime](https://github.com/sktime/sktime)\]\[[darts](https://github.com/unit8co/darts)\]\[[tslearn](https://github.com/tslearn-team/tslearn)\]\[[pyflux](https://github.com/RJT1990/pyflux)\]
