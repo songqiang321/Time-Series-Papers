@@ -91,6 +91,7 @@ This is a repository for collecting papers and code in time series domain.
 ---
 ## Diffusion Model
 - **Diffusion-TS: Interpretable Diffusion for General Time Series Generation**, _Yuan and Qiao_, ICLR 2024. \[[paper](https://arxiv.org/abs/2403.01742)\]\[[code](https://github.com/Y-debug-sys/Diffusion-TS)\]
+- **A Survey of Generative Techniques for Spatial-Temporal Data Mining**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.09592)\]
 
 ---
 
