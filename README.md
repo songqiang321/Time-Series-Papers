@@ -91,14 +91,15 @@ This is a repository for collecting papers and code in time series domain.
 ---
 ## Diffusion Model
 - **Diffusion-TS: Interpretable Diffusion for General Time Series Generation**, _Yuan and Qiao_, ICLR 2024. \[[paper](https://arxiv.org/abs/2403.01742)\]\[[code](https://github.com/Y-debug-sys/Diffusion-TS)\]
-- **A Survey of Generative Techniques for Spatial-Temporal Data Mining**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.09592)\]
+- **A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**, _Yang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.18886)\]\[[code](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)\]
 
 ---
 
 ## Benchmark and Dataset
 - **TSPP: A Unified Benchmarking Tool for Time-series Forecasting**, _Bączek et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.17100)\]\[[code](https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform)\]
 - **TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods**, _Qiu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.20150)\]\[[code](https://github.com/decisionintelligence/TFB)\]
-
+- **A Survey of Generative Techniques for Spatial-Temporal Data Mining**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.09592)\]
+  
 - \[[multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)\]\[[ETDataset](https://github.com/zhouhaoyi/ETDataset)\]\[[Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)\]
 
 ---
