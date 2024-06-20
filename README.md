@@ -27,6 +27,7 @@ This is a repository for collecting papers and code in time series domain.
 
 ## Linear
 
+- **N-BEATS: Neural basis expansion analysis for interpretable time series forecasting**, _Oreshkin et al._, ICLR 2020. \[[paper](https://arxiv.org/abs/1905.10437)\]\[[n-beats](https://github.com/philipperemy/n-beats)\]
 - DLinear: **Are Transformers Effective for Time Series Forecasting**, _Zeng et al._, AAAI 2023. \[[paper](https://arxiv.org/abs/2205.13504)\]\[[code](https://github.com/cure-lab/LTSF-Linear)\]
 - **TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting**, _Ekambaram et al._, KDD 2023. \[[paper](https://arxiv.org/abs/2306.09364)\]\[[model](https://huggingface.co/docs/transformers/main/en/model_doc/patchtsmixer)\]\[[example](https://github.com/ibm/tsfm#notebooks-links)\]
 - **Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series**, _Ekambaram et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03955)\]
@@ -81,7 +82,7 @@ This is a repository for collecting papers and code in time series domain.
 - **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]\[[nixtla](https://github.com/Nixtla/nixtla)\]
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]\[[code](https://github.com/KimMeen/Time-LLM)\]
 - **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
-- **Timer: Transformers for Time Series Analysis at Scale**, _Liu et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[website](https://thuml.github.io/timer)\]
+- **Timer: Generative Pre-trained Transformers Are Large Time Series Models**, _Liu et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[website](https://thuml.github.io/timer)\]
 - **TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling**, _Dong et al._, ICML2024. \[[paper](https://arxiv.org/abs/2402.02475)\]\[[code]()\]
 - **MOMENT: A Family of Open Time-series Foundation Models**, _Goswami et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.03885)\]\[[code](https://github.com/moment-timeseries-foundation-model/moment)\]
 - **Unified Training of Universal Time Series Forecasting Transformers**, _Woo et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02592)\]\[[code](https://github.com/SalesforceAIResearch/uni2ts)\]
