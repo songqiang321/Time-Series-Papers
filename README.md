@@ -91,6 +91,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Chronos: Learning the Language of Time Series**, _Ansari et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.07815)\]\[[code](https://github.com/amazon-science/chronos-forecasting)\]
 - **Large language models can be zero-shot anomaly detectors for time series**, _Alnegheimish et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.14755)\]
 - **Foundation Models for Time Series Analysis: A Tutorial and Survey**, _Liang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.14735)\]\[[granite-tsfm](https://github.com/ibm-granite/granite-tsfm)\]
+- **Are Language Models Actually Useful for Time Series Forecasting?**, _Tan et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.16964)\]\[[code](https://github.com/BennyTMT/TS_Models)\]
 
 ---
 ## Diffusion Model
