@@ -75,7 +75,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**, _Su et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.10350)\]
 
 - **SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling**, _Dong et al._, NeurIPS 2023 Spotlight. \[[paper](https://arxiv.org/abs/2302.00861)\]\[[code](https://github.com/thuml/SimMTM)\]
-- **One Fits All: Power General Time Series Analysis by Pretrained LM**, _Zhou et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2302.11939)\]\[[code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)\]\[[AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys)\]\[[CALF](https://github.com/Hank0626/CALF)\]
+- **One Fits All: Power General Time Series Analysis by Pretrained LM**, _Zhou et al._, NeurIPS 2023 Spotlight. \[[paper](https://arxiv.org/abs/2302.11939)\]\[[code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)\]\[[AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys)\]\[[CALF](https://github.com/Hank0626/CALF)\]
 - **Large Language Models Are Zero-Shot Time Series Forecasters**, _Gruver et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2310.07820)\]\[[code](https://github.com/ngruver/llmtime)\]
 - **Lag-Llama: Towards Foundation Models for Time Series Forecasting**, _Rasul et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.08278)\]\[[code](https://github.com/time-series-foundation-models/lag-llama)\]
 - TimesFM: **A decoder-only foundation model for time-series forecasting**, _Das et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2310.10688)\]\[[code](https://github.com/google-research/timesfm)\]
@@ -92,6 +92,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Large language models can be zero-shot anomaly detectors for time series**, _Alnegheimish et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.14755)\]
 - **Foundation Models for Time Series Analysis: A Tutorial and Survey**, _Liang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.14735)\]\[[granite-tsfm](https://github.com/ibm-granite/granite-tsfm)\]
 - **Are Language Models Actually Useful for Time Series Forecasting?**, _Tan et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.16964)\]\[[code](https://github.com/BennyTMT/TS_Models)\]
+- **LETS-C: Leveraging Language Embedding for Time Series Classification**, _Kaur et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.06533)\]
 
 ---
 ## Diffusion Model
