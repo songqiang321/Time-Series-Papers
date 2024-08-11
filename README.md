@@ -40,6 +40,7 @@ This is a repository for collecting papers and code in time series domain.
 ## RNN and CNN
 
 - **TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**, _Wu et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2210.02186)\]\[[code](https://github.com/thuml/TimesNet)\]\[[slides](https://wuhaixu2016.github.io/pdf/ICLR2023_TimesNet.pdf)\]
+- **RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks**, _Hou and Yu_, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.09093)\]\[[code](https://github.com/howard-hou/RWKV-TS)\]
 
 ---
 
