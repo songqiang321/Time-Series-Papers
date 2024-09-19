@@ -95,6 +95,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Foundation Models for Time Series Analysis: A Tutorial and Survey**, _Liang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.14735)\]\[[granite-tsfm](https://github.com/ibm-granite/granite-tsfm)\]
 - **Are Language Models Actually Useful for Time Series Forecasting?**, _Tan et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.16964)\]\[[code](https://github.com/BennyTMT/TS_Models)\]
 - **LETS-C: Leveraging Language Embedding for Time Series Classification**, _Kaur et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.06533)\]
+- **VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.17253)\]\[[code](https://github.com/Keytoyze/VisionTS)\]
 
 ---
 ## Diffusion Model
