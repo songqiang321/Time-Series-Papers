@@ -85,6 +85,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]\[[code](https://github.com/KimMeen/Time-LLM)\]
 - **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
 - **Timer: Generative Pre-trained Transformers Are Large Time Series Models**, _Liu et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[Unified Time Series Dataset](https://huggingface.co/datasets/thuml/UTSD)\]\[[website](https://thuml.github.io/timer)\]
+- **Timer-XL: Long-Context Transformers for Unified Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.04803)\]
 - **TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling**, _Dong et al._, ICML2024. \[[paper](https://arxiv.org/abs/2402.02475)\]\[[code]()\]
 - **MOMENT: A Family of Open Time-series Foundation Models**, _Goswami et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.03885)\]\[[code](https://github.com/moment-timeseries-foundation-model/moment)\]
 - **Unified Training of Universal Time Series Forecasting Transformers**, _Woo et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02592)\]\[[code](https://github.com/SalesforceAIResearch/uni2ts)\]
