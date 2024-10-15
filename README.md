@@ -59,6 +59,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting**, _Zhang and Yan_, ICLR 2023.  \[[paper](https://openreview.net/forum?id=vSVLM2j9eie)\]\[[code](https://github.com/Thinklab-SJTU/Crossformer)\]
 - **TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.19072)\]
 - **UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.04975)\]
+- MetaTST: **Metadata Matters for Time Series: Informative Forecasting with Transformers**, _Dong et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.03806)\]
 
 ---
 
