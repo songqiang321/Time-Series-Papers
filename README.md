@@ -32,7 +32,7 @@ This is a repository for collecting papers and code in time series domain.
 - **TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting**, _Ekambaram et al._, KDD 2023. \[[paper](https://arxiv.org/abs/2306.09364)\]\[[model](https://huggingface.co/docs/transformers/main/en/model_doc/patchtsmixer)\]\[[example](https://github.com/ibm/tsfm#notebooks-links)\]
 - **Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series**, _Ekambaram et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03955)\]\[[code](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public/models/tinytimemixer)\]
 - **FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16450)\]\[[code](https://github.com/onceCWJ/FCDNet)\]
-- **SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion**, _Han et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.14197)\]\[[code](https://github.com/Secilia-Cxy/SOFTS)\]
+- **SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion**, _Han et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2404.14197)\]\[[code](https://github.com/Secilia-Cxy/SOFTS)\]
 - **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2405.14616)\]\[[code](https://github.com/kwuking/TimeMixer)\]
 
 ---
@@ -57,9 +57,10 @@ This is a repository for collecting papers and code in time series domain.
 - **FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting**, _Zhou et al._, ICML 2022. \[[paper](https://arxiv.org/abs/2201.12740)\]\[[code](https://github.com/MAZiqing/FEDformer)\]\[[DAMO-DI-ML](https://github.com/DAMO-DI-ML)\]
 - PatchTST: **A Time Series is Worth 64 Words: Long-term Forecasting with Transformers**, _Nie et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2211.14730)\]\[[code](https://github.com/yuqinie98/PatchTST)\]
 - **Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting**, _Zhang and Yan_, ICLR 2023.  \[[paper](https://openreview.net/forum?id=vSVLM2j9eie)\]\[[code](https://github.com/Thinklab-SJTU/Crossformer)\]
-- **TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables**, _Wang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.19072)\]
+- **TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables**, _Wang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2402.19072)\]\[[code](https://github.com/thuml/TimeXer)\]
 - **UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.04975)\]
 - MetaTST: **Metadata Matters for Time Series: Informative Forecasting with Transformers**, _Dong et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.03806)\]
+- **Are Language Models Actually Useful for Time Series Forecasting**, _Tan et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2406.16964)\]\[[code](https://github.com/BennyTMT/LLMsForTimeSeries)\]\[[CATS](https://github.com/dongbeank/CATS)\]
 
 ---
 
@@ -91,7 +92,7 @@ This is a repository for collecting papers and code in time series domain.
 - **MOMENT: A Family of Open Time-series Foundation Models**, _Goswami et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.03885)\]\[[code](https://github.com/moment-timeseries-foundation-model/moment)\]
 - **Unified Training of Universal Time Series Forecasting Transformers**, _Woo et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02592)\]\[[code](https://github.com/SalesforceAIResearch/uni2ts)\]
 - **Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning**, _Bian et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.04852)\]
-- **UniTS: Building a Unified Time Series Model**, _Gao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.00131)\]\[[code](https://github.com/mims-harvard/UniTS)\]
+- **UNITS: A Unified Multi-Task Time Series Model**, _Gao et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2403.00131)\]\[[code](https://github.com/mims-harvard/UniTS)\]
 - **Chronos: Learning the Language of Time Series**, _Ansari et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.07815)\]\[[code](https://github.com/amazon-science/chronos-forecasting)\]
 - **Large language models can be zero-shot anomaly detectors for time series**, _Alnegheimish et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.14755)\]
 - **Foundation Models for Time Series Analysis: A Tutorial and Survey**, _Liang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2403.14735)\]\[[granite-tsfm](https://github.com/ibm-granite/granite-tsfm)\]
