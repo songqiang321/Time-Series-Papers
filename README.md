@@ -85,7 +85,7 @@ This is a repository for collecting papers and code in time series domain.
 - TimesFM: **A decoder-only foundation model for time-series forecasting**, _Das et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2310.10688)\]\[[code](https://github.com/google-research/timesfm)\]
 - **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]\[[nixtla](https://github.com/Nixtla/nixtla)\]
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]\[[code](https://github.com/KimMeen/Time-LLM)\]
-- **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
+- **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
 - **Timer: Generative Pre-trained Transformers Are Large Time Series Models**, _Liu et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[Unified Time Series Dataset](https://huggingface.co/datasets/thuml/UTSD)\]\[[website](https://thuml.github.io/timer)\]
 - **Timer-XL: Long-Context Transformers for Unified Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.04803)\]
 - **TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling**, _Dong et al._, ICML2024. \[[paper](https://arxiv.org/abs/2402.02475)\]\[[code]()\]
