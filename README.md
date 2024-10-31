@@ -100,7 +100,7 @@ This is a repository for collecting papers and code in time series domain.
 - **LETS-C: Leveraging Language Embedding for Time Series Classification**, _Kaur et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2407.06533)\]
 - **Towards Neural Scaling Laws for Time Series Foundation Models**, _Yao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.12360)\]
 - **VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.17253)\]\[[code](https://github.com/Keytoyze/VisionTS)\]
-- **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**, _Shi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2409.16040)\]\[[code](https://github.com/Time-MoE/Time-MoE)\]
+- **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**, _Shi et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2409.16040)\]\[[code](https://github.com/Time-MoE/Time-MoE)\]\[[Moirai-MoE](https://arxiv.org/abs/2410.10469)\]
 
 ---
 ## Diffusion Model
