@@ -30,6 +30,7 @@ This is a repository for collecting papers and code in time series domain.
 - **N-BEATS: Neural basis expansion analysis for interpretable time series forecasting**, _Oreshkin et al._, ICLR 2020. \[[paper](https://arxiv.org/abs/1905.10437)\]\[[n-beats](https://github.com/philipperemy/n-beats)\]\[[N-BEATS](https://github.com/ServiceNow/N-BEATS)\]
 - DLinear: **Are Transformers Effective for Time Series Forecasting**, _Zeng et al._, AAAI 2023. \[[paper](https://arxiv.org/abs/2205.13504)\]\[[code](https://github.com/cure-lab/LTSF-Linear)\]
 - **TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting**, _Ekambaram et al._, KDD 2023. \[[paper](https://arxiv.org/abs/2306.09364)\]\[[model](https://huggingface.co/docs/transformers/main/en/model_doc/patchtsmixer)\]\[[example](https://github.com/ibm/tsfm#notebooks-links)\]
+- FreTS: **Frequency-domain MLPs are More Effective Learners in Time Series Forecasting**, _Yi et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2311.06184)\]\[[code](https://github.com/aikunyi/FreTS)\]\[[FilterNet](https://github.com/aikunyi/FilterNet)\]
 - **Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series**, _Ekambaram et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03955)\]\[[code](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public/models/tinytimemixer)\]
 - **FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16450)\]\[[code](https://github.com/onceCWJ/FCDNet)\]
 - **SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion**, _Han et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2404.14197)\]\[[code](https://github.com/Secilia-Cxy/SOFTS)\]
@@ -70,6 +71,7 @@ This is a repository for collecting papers and code in time series domain.
 
 - **A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**, _Jin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2307.03759)\]\[[code](https://github.com/KimMeen/Awesome-GNN4TS)\]
 - **GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**, _Li et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2311.04245)\]\[[code](https://github.com/HKUDS/GPT-ST)\]
+- **FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective**, _Yi et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2311.06190)\]\[[code](https://github.com/aikunyi/FourierGNN)\]
 - **MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting**, _Cai et al._, AAAI 2024. \[[paper](https://arxiv.org/abs/2401.00423)\]\[[code](https://github.com/YoZhibo/MSGNet)\]
 
 ---
