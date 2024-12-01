@@ -28,7 +28,7 @@ This is a repository for collecting papers and code in time series domain.
 ## Linear
 
 - **N-BEATS: Neural basis expansion analysis for interpretable time series forecasting**, _Oreshkin et al._, ICLR 2020. \[[paper](https://arxiv.org/abs/1905.10437)\]\[[n-beats](https://github.com/philipperemy/n-beats)\]\[[N-BEATS](https://github.com/ServiceNow/N-BEATS)\]
-- DLinear: **Are Transformers Effective for Time Series Forecasting**, _Zeng et al._, AAAI 2023. \[[paper](https://arxiv.org/abs/2205.13504)\]\[[code](https://github.com/cure-lab/LTSF-Linear)\]
+- DLinear: **Are Transformers Effective for Time Series Forecasting**, _Zeng et al._, AAAI 2023. \[[paper](https://arxiv.org/abs/2205.13504)\]\[[code](https://github.com/cure-lab/LTSF-Linear)\]\[[DiPE-Linear](https://github.com/wintertee/DiPE-Linear)\]
 - **TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting**, _Ekambaram et al._, KDD 2023. \[[paper](https://arxiv.org/abs/2306.09364)\]\[[model](https://huggingface.co/docs/transformers/main/en/model_doc/patchtsmixer)\]\[[example](https://github.com/ibm/tsfm#notebooks-links)\]
 - FreTS: **Frequency-domain MLPs are More Effective Learners in Time Series Forecasting**, _Yi et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2311.06184)\]\[[code](https://github.com/aikunyi/FreTS)\]\[[FilterNet](https://github.com/aikunyi/FilterNet)\]
 - **Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series**, _Ekambaram et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03955)\]\[[code](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public/models/tinytimemixer)\]
