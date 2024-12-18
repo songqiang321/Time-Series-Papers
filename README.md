@@ -62,7 +62,7 @@ This is a repository for collecting papers and code in time series domain.
 - **UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.04975)\]
 - MetaTST: **Metadata Matters for Time Series: Informative Forecasting with Transformers**, _Dong et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.03806)\]
 - **Are Language Models Actually Useful for Time Series Forecasting**, _Tan et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2406.16964)\]\[[code](https://github.com/BennyTMT/LLMsForTimeSeries)\]\[[CATS](https://github.com/dongbeank/CATS)\]
-- **Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective**, _Wang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2409.18696)\]\[[code](https://github.com/ForestsKing/GLAFF)\]
+- **Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective**, _Wang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2409.18696)\]\[[code](https://github.com/ForestsKing/GLAFF)\]\[[ChatTime](https://github.com/ForestsKing/ChatTime)\]
 - **ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer**, _Zhang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2411.01842)\]\[[code](https://github.com/microsoft/ProbTS/tree/elastst)\]
 
 ---
