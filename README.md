@@ -112,6 +112,7 @@ This is a repository for collecting papers and code in time series domain.
 - **A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**, _Yang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2404.18886)\]\[[code](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)\]
 - **TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model**, _Cao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2409.02322)\]
 - **UTSD: Unified Time Series Diffusion Model**, _Ma et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2412.03068)\]
+- **Auto-Regressive Moving Diffusion Models for Time Series Forecasting**, _Gao et al._, AAAI 2025. \[[paper](https://arxiv.org/abs/2412.09328)\]\[[code](https://github.com/daxin007/ARMD)\]
 
 ---
 
