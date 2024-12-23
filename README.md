@@ -35,6 +35,7 @@ This is a repository for collecting papers and code in time series domain.
 - **FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16450)\]\[[code](https://github.com/onceCWJ/FCDNet)\]
 - **SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion**, _Han et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2404.14197)\]\[[code](https://github.com/Secilia-Cxy/SOFTS)\]
 - **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2405.14616)\]\[[code](https://github.com/kwuking/TimeMixer)\]
+- **DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting**, _Qiu et al._, KDD 2025. \[[paper](https://arxiv.org/abs/2412.10859)\]\[[code](https://github.com/decisionintelligence/DUET)\]
 
 ---
 
@@ -64,6 +65,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Are Language Models Actually Useful for Time Series Forecasting**, _Tan et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2406.16964)\]\[[code](https://github.com/BennyTMT/LLMsForTimeSeries)\]\[[CATS](https://github.com/dongbeank/CATS)\]
 - **Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective**, _Wang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2409.18696)\]\[[code](https://github.com/ForestsKing/GLAFF)\]\[[ChatTime](https://github.com/ForestsKing/ChatTime)\]
 - **ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer**, _Zhang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2411.01842)\]\[[code](https://github.com/microsoft/ProbTS/tree/elastst)\]
+- **Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting**, _Chen et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2402.05956)\]\[[code](https://github.com/decisionintelligence/pathformer)\]
 
 ---
 
