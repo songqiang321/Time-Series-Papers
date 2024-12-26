@@ -89,7 +89,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Large Language Models Are Zero-Shot Time Series Forecasters**, _Gruver et al._, NeurIPS 2023. \[[paper](https://arxiv.org/abs/2310.07820)\]\[[code](https://github.com/ngruver/llmtime)\]
 - **Lag-Llama: Towards Foundation Models for Time Series Forecasting**, _Rasul et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.08278)\]\[[code](https://github.com/time-series-foundation-models/lag-llama)\]
 - TimesFM: **A decoder-only foundation model for time-series forecasting**, _Das et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2310.10688)\]\[[code](https://github.com/google-research/timesfm)\]
-- **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]\[[nixtla](https://github.com/Nixtla/nixtla)\]
+- **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]\[[nixtla](https://github.com/Nixtla/nixtla)\]\[[sulie](https://github.com/wearesulie/sulie)\]
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]\[[code](https://github.com/KimMeen/Time-LLM)\]
 - **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
 - **Timer: Generative Pre-trained Transformers Are Large Time Series Models**, _Liu et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[Unified Time Series Dataset](https://huggingface.co/datasets/thuml/UTSD)\]\[[website](https://thuml.github.io/timer)\]
