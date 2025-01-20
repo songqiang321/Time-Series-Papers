@@ -34,6 +34,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series**, _Ekambaram et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2401.03955)\]\[[code](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public/models/tinytimemixer)\]
 - **FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting**, _Chen et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2312.16450)\]\[[code](https://github.com/onceCWJ/FCDNet)\]
 - **SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion**, _Han et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2404.14197)\]\[[code](https://github.com/Secilia-Cxy/SOFTS)\]
+- **SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters**, _Lin et al._, ICML 2024 Oral. \[[paper](https://arxiv.org/abs/2405.00946)\]\[[code](https://github.com/lss-1138/SparseTSF)\]
 - **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2405.14616)\]\[[code](https://github.com/kwuking/TimeMixer)\]
 - **DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting**, _Qiu et al._, KDD 2025. \[[paper](https://arxiv.org/abs/2412.10859)\]\[[code](https://github.com/decisionintelligence/DUET)\]
 
