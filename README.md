@@ -127,6 +127,7 @@ This is a repository for collecting papers and code in time series domain.
 - **A Survey of Generative Techniques for Spatial-Temporal Data Mining**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2405.09592)\]
 - **Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.08627)\]\[[code](https://github.com/AdityaLab/Time-MMD)\]\[[MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib)\]
 - **GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation**, _Aksu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.10393)\]\[[code](https://github.com/SalesforceAIResearch/gift-eval)\]
+- **FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**, _Hu et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2502.18834)\]\[[code](https://github.com/TongjiFinLab/FinTSB)\]
   
 - \[[multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)\]\[[ETDataset](https://github.com/zhouhaoyi/ETDataset)\]\[[Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)\]
 
