@@ -82,7 +82,7 @@ This is a repository for collecting papers and code in time series domain.
 ## LLM Framework
 
 - **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook**, _Jin et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.10196)\]\[[code](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)\]
-- **Large Language Models for Time Series: A Survey**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.01801)\]\[[code](https://github.com/xiyuanzh/awesome-llm-time-series)\]
+- **Large Language Models for Time Series: A Survey**, _Zhang et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.01801)\]\[[code](https://github.com/xiyuanzh/awesome-llm-time-series)\]\[[Empowering-Time-Series-Analysis-with-LLM](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)\]
 - **Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**, _Su et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.10350)\]
 
 - **SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling**, _Dong et al._, NeurIPS 2023 Spotlight. \[[paper](https://arxiv.org/abs/2302.00861)\]\[[code](https://github.com/thuml/SimMTM)\]
