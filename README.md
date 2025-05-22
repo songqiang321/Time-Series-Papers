@@ -109,7 +109,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Towards Neural Scaling Laws for Time Series Foundation Models**, _Yao et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.12360)\]
 - **VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**, _Chen et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2408.17253)\]\[[code](https://github.com/Keytoyze/VisionTS)\]
 - **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**, _Shi et al._, ICLR 2025. \[[paper](https://arxiv.org/abs/2409.16040)\]\[[code](https://github.com/Time-MoE/Time-MoE)\]\[[Moirai-MoE](https://arxiv.org/abs/2410.10469)\]
-- **ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**, _Xie et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2412.03104)\]\[[code](https://github.com/NetManAIOps/ChatTS)\]
+- **ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**, _Xie et al._, VLDB 2025. \[[paper](https://arxiv.org/abs/2412.03104)\]\[[code](https://github.com/NetManAIOps/ChatTS)\]
 - **AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting**, _Benechehab et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2502.10235)\]\[[code](https://github.com/abenechehab/AdaPTS)\]
 - **TimesBERT: A BERT-Style Foundation Model for Time Series Understanding**, _Zhang et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2502.21245)\]
 
