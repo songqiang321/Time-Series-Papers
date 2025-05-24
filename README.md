@@ -60,7 +60,7 @@ This is a repository for collecting papers and code in time series domain.
 - **FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting**, _Zhou et al._, ICML 2022. \[[paper](https://arxiv.org/abs/2201.12740)\]\[[code](https://github.com/MAZiqing/FEDformer)\]\[[DAMO-DI-ML](https://github.com/DAMO-DI-ML)\]
 - PatchTST: **A Time Series is Worth 64 Words: Long-term Forecasting with Transformers**, _Nie et al._, ICLR 2023. \[[paper](https://arxiv.org/abs/2211.14730)\]\[[code](https://github.com/yuqinie98/PatchTST)\]
 - **Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting**, _Zhang and Yan_, ICLR 2023.  \[[paper](https://openreview.net/forum?id=vSVLM2j9eie)\]\[[code](https://github.com/Thinklab-SJTU/Crossformer)\]
-- **TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables**, _Wang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2402.19072)\]\[[code](https://github.com/thuml/TimeXer)\]
+- **TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables**, _Wang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2402.19072)\]\[[code](https://github.com/thuml/TimeXer)\]\[[code](https://github.com/thuml/TimeXer)\]
 - **UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2406.04975)\]
 - MetaTST: **Metadata Matters for Time Series: Informative Forecasting with Transformers**, _Dong et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.03806)\]
 - **Are Language Models Actually Useful for Time Series Forecasting**, _Tan et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2406.16964)\]\[[code](https://github.com/BennyTMT/LLMsForTimeSeries)\]\[[CATS](https://github.com/dongbeank/CATS)\]
@@ -93,9 +93,10 @@ This is a repository for collecting papers and code in time series domain.
 - **TimeGPT-1**, _Garza et al._, arxiv 2023. \[[paper](https://arxiv.org/abs/2310.03589)\]\[[nixtla](https://github.com/Nixtla/nixtla)\]\[[sulie](https://github.com/wearesulie/sulie)\]
 - **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**, _Jin et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2310.01728)\]\[[code](https://github.com/KimMeen/Time-LLM)\]
 - **AutoTimes: Autoregressive Time Series Forecasters via Large Language Models**, _Liu et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2402.02370)\]\[[code](https://github.com/thuml/AutoTimes)\]
-- **Timer: Generative Pre-trained Transformers Are Large Time Series Models**, _Liu et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[Unified Time Series Dataset](https://huggingface.co/datasets/thuml/UTSD)\]\[[website](https://thuml.github.io/timer)\]
-- **Timer-XL: Long-Context Transformers for Unified Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.04803)\]
-- **TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling**, _Dong et al._, ICML2024. \[[paper](https://arxiv.org/abs/2402.02475)\]\[[code]()\]
+- **Timer: Generative Pre-trained Transformers Are Large Time Series Models**, _Liu et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02368)\]\[[code](https://github.com/thuml/Large-Time-Series-Model)\]\[[Unified Time Series Dataset](https://huggingface.co/datasets/thuml/UTSD)\]\[[website](https://thuml.github.io/timer)\]\[[slides](https://cloud.tsinghua.edu.cn/f/b766629dbc584a4e8563/)\]
+- **Timer-XL: Long-Context Transformers for Unified Time Series Forecasting**, _Liu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.04803)\]\[[code](https://github.com/thuml/Timer-XL)\]\[[slides](https://cloud.tsinghua.edu.cn/f/2d4b660fc05148dc8f30/)\]
+- **TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling**, _Dong et al._, ICML2024. \[[paper](https://arxiv.org/abs/2402.02475)\]\[[code](https://github.com/thuml/TimeSiam)\]\[[slides](https://cloud.tsinghua.edu.cn/f/99ab4b2aec8b4614b7b4/)\]
+- **Sundial: A Family of Highly Capable Time Series Foundation Models**, _Liu et al._, ICML 2025 Spotlight. \[[paper](https://arxiv.org/abs/2502.00816)\]\[[code](https://github.com/thuml/Sundial)\]
 - **MOMENT: A Family of Open Time-series Foundation Models**, _Goswami et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.03885)\]\[[code](https://github.com/moment-timeseries-foundation-model/moment)\]
 - **Unified Training of Universal Time Series Forecasting Transformers**, _Woo et al._, ICML 2024. \[[paper](https://arxiv.org/abs/2402.02592)\]\[[code](https://github.com/SalesforceAIResearch/uni2ts)\]
 - **Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning**, _Bian et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2402.04852)\]
@@ -112,6 +113,7 @@ This is a repository for collecting papers and code in time series domain.
 - **ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**, _Xie et al._, VLDB 2025. \[[paper](https://arxiv.org/abs/2412.03104)\]\[[code](https://github.com/NetManAIOps/ChatTS)\]
 - **AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting**, _Benechehab et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2502.10235)\]\[[code](https://github.com/abenechehab/AdaPTS)\]
 - **TimesBERT: A BERT-Style Foundation Model for Time Series Understanding**, _Zhang et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2502.21245)\]
+- **This Time is Different: An Observability Perspective on Time Series Foundation Models**, _Cohen et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2505.14766)\]\[[code](https://github.com/DataDog/toto)\]
 
 ---
 ## Diffusion Model
