@@ -68,6 +68,7 @@ This is a repository for collecting papers and code in time series domain.
 - **Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective**, _Wang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2409.18696)\]\[[code](https://github.com/ForestsKing/GLAFF)\]\[[ChatTime](https://github.com/ForestsKing/ChatTime)\]
 - **ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer**, _Zhang et al._, NeurIPS 2024. \[[paper](https://arxiv.org/abs/2411.01842)\]\[[code](https://github.com/microsoft/ProbTS/tree/elastst)\]
 - **Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting**, _Chen et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2402.05956)\]\[[code](https://github.com/decisionintelligence/pathformer)\]
+- **MASTER: Market-Guided Stock Transformer for Stock Price Forecasting**, _Li et al._, AAAI 2024. \[[paper](https://arxiv.org/abs/2312.15235)\]\[[code](https://github.com/SJTU-DMTai/MASTER)\]\[[StockMixer](https://github.com/SJTU-DMTai/StockMixer)\]\[[Quant-Reading-List](https://github.com/SJTU-DMTai/Quant-Reading-List)\]\[[UMI KDD 2025](https://arxiv.org/abs/2502.04737)\]
 
 ---
 
@@ -136,7 +137,7 @@ This is a repository for collecting papers and code in time series domain.
 - **GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation**, _Aksu et al._, arxiv 2024. \[[paper](https://arxiv.org/abs/2410.10393)\]\[[code](https://github.com/SalesforceAIResearch/gift-eval)\]
 - **FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**, _Hu et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2502.18834)\]\[[code](https://github.com/TongjiFinLab/FinTSB)\]
   
-- \[[multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)\]\[[ETDataset](https://github.com/zhouhaoyi/ETDataset)\]\[[Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)\]
+- \[[multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)\]\[[ETDataset](https://github.com/zhouhaoyi/ETDataset)\]\[[Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)\]\[[investment_data](https://github.com/chenditc/investment_data)\]
 
 ---
 
