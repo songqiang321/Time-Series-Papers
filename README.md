@@ -117,6 +117,7 @@ This is a repository for collecting papers and code in time series domain.
 - **TimesBERT: A BERT-Style Foundation Model for Time Series Understanding**, _Zhang et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2502.21245)\]
 - **This Time is Different: An Observability Perspective on Time Series Foundation Models**, _Cohen et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2505.14766)\]\[[code](https://github.com/DataDog/toto)\]
 - **Time-R1: Towards Comprehensive Temporal Reasoning in LLMs**, _Liu et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2505.13508)\]\[[code](https://github.com/ulab-uiuc/Time-R1)\]\[[Position](https://arxiv.org/abs/2502.01477)\]
+- \[[LimiX](https://github.com/limix-ldm/LimiX)\]
 
 ---
 ## Diffusion Model
