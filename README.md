@@ -118,6 +118,7 @@ This is a repository for collecting papers and code in time series domain.
 - **This Time is Different: An Observability Perspective on Time Series Foundation Models**, _Cohen et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2505.14766)\]\[[code](https://github.com/DataDog/toto)\]
 - **Time-R1: Towards Comprehensive Temporal Reasoning in LLMs**, _Liu et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2505.13508)\]\[[code](https://github.com/ulab-uiuc/Time-R1)\]\[[Position](https://arxiv.org/abs/2502.01477)\]
 - **MIRA: Medical Time Series Foundation Model for Real-World Health Data**, _Li et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2506.07584)\]\[[code](https://github.com/microsoft/MIRA)\]
+- **Harnessing Vision-Language Models for Time Series Anomaly Detection**, _He et al._, AAAI 2026 Oral. \[[paper](https://arxiv.org/abs/2506.06836)\]\[[code](https://github.com/ZLHe0/VLM4TS)\]
 - \[[LimiX](https://github.com/limix-ldm/LimiX)\]
 
 ---
