@@ -120,6 +120,7 @@ This is a repository for collecting papers and code in time series domain.
 - **MIRA: Medical Time Series Foundation Model for Real-World Health Data**, _Li et al._, arxiv 2025. \[[paper](https://arxiv.org/abs/2506.07584)\]\[[code](https://github.com/microsoft/MIRA)\]
 - **Harnessing Vision-Language Models for Time Series Anomaly Detection**, _He et al._, AAAI 2026 Oral. \[[paper](https://arxiv.org/abs/2506.06836)\]\[[code](https://github.com/ZLHe0/VLM4TS)\]
 - **LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence**, _LimiX Team_, arxiv 2025. \[[paper](https://arxiv.org/abs/2509.03505)\]\[[code](https://github.com/limix-ldm-ai/LimiX)\]
+- **Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling**, _Liu et al._, arxiv 2026. \[[paper](https://arxiv.org/abs/2603.04791)\]
 
 ---
 ## Diffusion Model
