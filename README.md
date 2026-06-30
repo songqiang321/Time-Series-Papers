@@ -37,6 +37,7 @@ This is a repository for collecting papers and code in time series domain.
 - **SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters**, _Lin et al._, ICML 2024 Oral. \[[paper](https://arxiv.org/abs/2405.00946)\]\[[code](https://github.com/lss-1138/SparseTSF)\]
 - **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**, _Wang et al._, ICLR 2024. \[[paper](https://arxiv.org/abs/2405.14616)\]\[[code](https://github.com/kwuking/TimeMixer)\]
 - **DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting**, _Qiu et al._, KDD 2025. \[[paper](https://arxiv.org/abs/2412.10859)\]\[[code](https://github.com/decisionintelligence/DUET)\]
+- SearchCast: **How Good Can Linear Models Be for Time-Series Forecasting**, _Huang et al._, arxiv 2026. \[[paper](https://arxiv.org/abs/2606.27282)\]\[[code](https://github.com/SakanaAI/SearchCast)\]
 
 ---
 
